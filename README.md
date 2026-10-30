@@ -34,10 +34,6 @@ This project demonstrates how Tableau Public can be used to explore retail data 
 - Use sales trends to support inventory planning.
 - Monitor discounts and profit margins.
 
-## Tools Used
-- Tableau Public
-- CSV Dataset
-
 ## Note
 The dataset contains synthetic data created for educational and practice purposes.(https://public.tableau.com/views/RetailBusinessInsights_17932543006530/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
